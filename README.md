@@ -1,3 +1,4 @@
+![Header](./github.png)
 <h1 align="center">Hola 👋, I'm Michael Palacios</h1>
 <h3 align="center">Full Stack Programmer from El Salvador</h3>
 
